@@ -1,5 +1,5 @@
 :root {
-    --sidebar: rgba(25,146,212,255);
+    --sidebar: rgba(25, 146, 212, 255);
 }
 
 * {
@@ -27,6 +27,16 @@
     grid-gap: 35px;
     list-style-type: none;
 }
+
+.sidebar .heading {
+    
+}
+
+
+
+
+
+
 
 .header {
     background-color: orange;
